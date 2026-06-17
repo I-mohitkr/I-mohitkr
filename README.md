@@ -40,16 +40,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" width="400"/>
 
-Hi, I'm **Mohit Kumar** — a 20-year-old Computer Science student from Patna, Bihar, currently pursuing my B.E. in CSE at **Grace College of Engineering** (Class of 2027).
+Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — a 20-year-old Computer Science student from Patna, Bihar, currently pursuing my B.E. in CSE at **Grace College of Engineering** (Class of 2027).
 
-I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning complex ideas into intuitive, real-world tools. I bridge the gap between intelligent backend systems and interactive frontends — building applications that are not just functional, but feel good to use.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Core expertise spans:**
-- 🤖 Clean the data,Train the Model and applied AI/ML systems
-- ⚡ Interactive, performance-optimized web experiences with GPU-accelerated animations
-- 🌐 Full stack product engineering with React, Vite, Node.js, and Python
-- 🛠️ Building tools that solve real-world problems with clean architecture
-- 📊 Data-driven applications with MongoDB, REST APIs, and cloud deployment
 
 <br/>
 
