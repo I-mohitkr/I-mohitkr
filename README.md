@@ -124,7 +124,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=I-mohitkr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-trophies.vercel.app/?username=I-mohitkr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
