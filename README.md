@@ -27,15 +27,17 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## About me
+
+
+### About me
 I'm a passionate **AI/ML and Full Stack Developer** from India 🇮🇳 who loves crafting digital experiences and solving complex problems through code. I believe in writing clean, efficient code and am always excited to learn new technologies.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
-class RaushanKumar:
+class MohitKumar:
     def __init__(self):
         self.name = "Mohit Kumar"
         self.location = "India"
@@ -48,13 +50,15 @@ class RaushanKumar:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-developer = RaushanKumar()
+developer = MohitKumar()
 developer.say_hi()
 ```
 
 <br clear="both">
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **Open To:**
 > `Internships` &nbsp;·&nbsp; `Full Stack Development` &nbsp;·&nbsp; `AI / ML Projects` &nbsp;·&nbsp; `Open Source Collaboration` &nbsp;·&nbsp; `Freelance Work`
