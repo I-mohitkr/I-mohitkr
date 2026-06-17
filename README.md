@@ -45,7 +45,7 @@ Hi, I'm **Mohit Kumar** — a 20-year-old Computer Science student from Patna, B
 I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning complex ideas into intuitive, real-world tools. I bridge the gap between intelligent backend systems and interactive frontends — building applications that are not just functional, but feel good to use.
 
 **Core expertise spans:**
-- 🤖 Computer Vision, NLP, and applied AI/ML systems
+- 🤖 Clean the data,Train the Model and applied AI/ML systems
 - ⚡ Interactive, performance-optimized web experiences with GPU-accelerated animations
 - 🌐 Full stack product engineering with React, Vite, Node.js, and Python
 - 🛠️ Building tools that solve real-world problems with clean architecture
