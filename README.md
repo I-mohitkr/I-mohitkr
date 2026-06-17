@@ -38,14 +38,30 @@
 
 ---
 
-## About
+## About me
+I'm a passionate **AI/ML and Full Stack Developer** from India 🇮🇳 who loves crafting digital experiences and solving complex problems through code. I believe in writing clean, efficient code and am always excited to learn new technologies.
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — a 20-year-old Computer Science student from Patna, Bihar, currently pursuing my B.E. in CSE at **Grace College of Engineering** (Class of 2027).
+```python
+class RaushanKumar:
+    def __init__(self):
+        self.name = "Mohit Kumar"
+        self.location = "India"
+        self.role = "AI/ML & Full Stack Developer"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["Sklearn", "pytorch", "React", "React Native"]
+        self.databases = ["MongoDB", "PostgreSQL", "MySQL"]
+        self.tools = ["Notebook", "Git", "Figma", "vercel"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+developer = RaushanKumar()
+developer.say_hi()
+```
 
+<br clear="both">
 
 <br/>
 
@@ -73,8 +89,6 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -96,8 +110,6 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -116,11 +128,7 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 ## Contribution Snake
 
@@ -135,7 +143,6 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
 
 <div align="center">
 
