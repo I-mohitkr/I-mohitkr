@@ -36,7 +36,7 @@
 
 ---
 
-##About
+About
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" width="400"/>
 
@@ -60,36 +60,26 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ---
 
-##Tech Stack
-
-###Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css&theme=dark" />
-</p>
+Tech Stack
 
 ### 🤖 AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,matplotlib,Api integration,GenAI&theme=dark" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Web Dev
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,threejs,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,threejs,figma,Rest Api,Mongodb,&theme=dark" />
 </p>
 
-### 🛠️ Backend & Databases
+### ☁️Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,mongodb,mysql,firebase&theme=dark" />
-</p>
-
-### ☁️ Cloud, DevOps & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,Hugging face&theme=dark" />
 </p>
 
 ---
 
-##Coding Profiles
+Coding Profiles
 
 <div align="center">
 
@@ -135,7 +125,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ---
 
-##Contribution Activity
+Contribution Activity
 
 <div align="center">
 
@@ -145,7 +135,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ---
 
-## 🐍 Contribution Snake
+Contribution Snake
 
 <div align="center">
 
@@ -158,8 +148,6 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 </div>
 
 ---
-
-
 
 ---
 
