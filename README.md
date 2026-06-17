@@ -32,13 +32,15 @@
 &nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/I-mohitkr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=5B21B6&label=Stars&logo=github&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
 
 ## About
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — a 20-year-old Computer Science student from Patna, Bihar, currently pursuing my B.E. in CSE at **Grace College of Engineering** (Class of 2027).
 
@@ -51,6 +53,8 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 > `Internships` &nbsp;·&nbsp; `Full Stack Development` &nbsp;·&nbsp; `AI / ML Projects` &nbsp;·&nbsp; `Open Source Collaboration` &nbsp;·&nbsp; `Freelance Work`
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -65,6 +69,9 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/I-mohitkr)
 
 </div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -86,6 +93,9 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## GitHub Trophies
@@ -106,6 +116,10 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ## Contribution Snake
@@ -120,8 +134,7 @@ Hi, I'm **Mohit Kumar** - a **Full Stack Developer** and **AI/ML enthusiast — 
 
 </div>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 <div align="center">
