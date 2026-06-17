@@ -23,7 +23,6 @@
 &nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/I-mohitkr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=5B21B6&label=Stars&logo=github&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -67,22 +66,6 @@ developer.say_hi()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/I-mohitkr)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/I-mohitkr)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/I-mohitkr)
-
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Analytics
 
