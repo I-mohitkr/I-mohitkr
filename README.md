@@ -64,7 +64,12 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ### 🔤 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css&theme=dark" />
+</p>
+
+### 🤖 AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark" />
 </p>
 
 ### 🎨 Frontend
@@ -79,7 +84,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ### ☁️ Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux&theme=dark" />
 </p>
 
 ---
