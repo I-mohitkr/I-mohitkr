@@ -41,8 +41,8 @@ class MohitKumar:
         self.name = "Mohit Kumar"
         self.location = "India"
         self.role = "AI/ML & Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Sklearn", "pytorch", "React", "React Native"]
+        self.languages = ["Python", "JavaScript", "C", "HTML", "CSS"]
+        self.frameworks = ["Sklearn", "pytorch", "React", "Next.js"]
         self.databases = ["MongoDB", "PostgreSQL", "MySQL"]
         self.tools = ["Notebook", "Git", "Figma", "vercel"]
         
