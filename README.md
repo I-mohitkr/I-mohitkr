@@ -62,20 +62,24 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 Tech Stack
 
-### 🤖 AI/ML
+  🤖 AI/ML
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,matplotlib,Api integration,GenAI&theme=dark" />
 </p>
 
-### 🎨 Web Dev
+  🎨 Web Dev
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,threejs,figma,Rest Api,Mongodb,&theme=dark" />
 </p>
-
-### ☁️Tools
+  ☁️Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,Hugging face&theme=dark" />
 </p>
+
+  other
+  <p>
+    <img src=video editing, game dev,grphics designer,photo editing , motion graphics,3d modeling
+  </p>
 
 ---
 
@@ -95,7 +99,7 @@ Coding Profiles
 
 ---
 
-##GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
@@ -115,7 +119,7 @@ Coding Profiles
 
 ---
 
-##GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
