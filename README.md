@@ -104,7 +104,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github&include_all_commits=true" height="195" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" height="195" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-mohitkr&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&langs_count=10&hide=jupyter%20notebook,html,css" height="195" alt="Top Languages"/>
 
@@ -124,7 +124,7 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=I-mohitkr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=I-mohitkr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
