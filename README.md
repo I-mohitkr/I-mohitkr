@@ -321,7 +321,7 @@ Pursuing Bachelor of Engineering in Computer Science & Engineering with focus on
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=I-mohitkr&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=I-mohitkr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
