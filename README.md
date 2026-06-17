@@ -125,6 +125,8 @@ developer.say_hi()
 
 *"I'm at the start of my journey — but I build with intention, learn with curiosity, and ship with care."*
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,24&height=120&section=footer" width="100%"/>
