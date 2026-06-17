@@ -4,15 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=52&lines=Full+Stack+Developer+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Crafting+interactive+web+experiences+%E2%9A%A1;Open+source+enthusiast+%7C+always+shipping+%F0%9F%9A%80;Turning+complex+ideas+into+elegant+systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-<br/>
-
-![Degree](https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=mortarboard&logoColor=white)
-&nbsp;
-![Institute](https://img.shields.io/badge/College-Grace%20College%20of%20Engineering-6D28D9?style=flat-square&logo=academia&logoColor=white)
-&nbsp;
-![Batch](https://img.shields.io/badge/Class%20of-2027-5B21B6?style=flat-square&logo=star&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-Patna%2C%20Bihar%2C%20India-4C1D95?style=flat-square&logoColor=white)
 
 <br/>
 
