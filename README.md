@@ -351,47 +351,7 @@ Pursuing Bachelor of Engineering in Computer Science & Engineering with focus on
 
 ---
 
-## 🎯 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - "Advanced AI/ML — Deep Learning, Transformers, and LLM integrations"
-    - "Three.js for immersive 3D web experiences"
-    - "Backend development with Node.js, FastAPI, and cloud deployment"
-
-  building:
-    - "AI-powered web applications with real-time intelligent features"
-    - "Interactive portfolio with cutting-edge web technologies"
-    - "Full stack projects bridging ML models with modern frontends"
-
-  exploring:
-    - "WebGL and GPU-accelerated web animations"
-    - "Game development and interactive media"
-    - "Advanced CSS animations, micro-interactions, and motion design"
-
-  open_to:
-    - "Internship opportunities in Full Stack / AI-ML Engineering"
-    - "Open source collaboration on web and AI projects"
-    - "Freelance web development and design projects"
-    - "Hackathons, coding competitions, and tech communities"
-```
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-mohitkum7739%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkum7739@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-mohitkr/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-I--mohitkr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/I-mohitkr)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-imohitkr.vercel.app-7C3AED?style=for-the-badge)](https://imohitkr.vercel.app)
-
-</div>
 
 ---
 
