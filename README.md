@@ -60,36 +60,11 @@ I'm a **Full Stack Developer** and **AI/ML enthusiast** who loves turning comple
 
 ---
 
-Tech Stack
-
-  🤖 AI/ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,matplotlib,Api integration,GenAI&theme=dark" />
-</p>
-
-  🎨 Web Dev
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,threejs,figma,Rest Api,Mongodb,&theme=dark" />
-</p>
-  ☁️Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,Hugging face&theme=dark" />
-</p>
-
-  other
-  <p>
-    <img src=video editing, game dev,grphics designer,photo editing , motion graphics,3d modeling
-  </p>
-
----
-
 Coding Profiles
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/I-mohitkr)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/I-mohitkr)
 &nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/I-mohitkr)
 &nbsp;
