@@ -71,9 +71,9 @@ developer.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" height="195" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=I-mohitkr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117&rank_icon=github" height="195" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-mohitkr&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&langs_count=10&hide=jupyter%20notebook,html,css" height="195" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=I-mohitkr&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=E2E8F0&bg_color=0D1117&langs_count=10&hide=jupyter%20notebook,html,css" height="195" alt="Top Languages"/>
 
 </div>
 
