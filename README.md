@@ -17,12 +17,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=I-mohitkr&style=flat-square&color=7C3AED&label=Profile+Views)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/I-mohitkr?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/I-mohitkr?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=5B21B6&label=Stars&logo=github&logoColor=white)
-
 
 </div>
 
