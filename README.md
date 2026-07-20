@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,24&height=200&section=header&text=Mohit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20CS%20Undergrad&descAlignY=60&descSize=17&descColor=E2D9F3" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=52&lines=Full+Stack+Developer+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Crafting+interactive+web+experiences+%E2%9A%A1;Open+source+enthusiast+%7C+always+shipping+%F0%9F%9A%80;Turning+complex+ideas+into+elegant+systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,19,24&height=120&section=header" width="100%"/>
 
 <br/>
 
